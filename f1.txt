@@ -16,3 +16,7 @@ String clg = "jntu";
 int x = 30;
 boolean b = false;
 byte bb = 10;
+
+int i  = 45;
+int j = 23;
+
