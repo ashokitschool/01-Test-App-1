@@ -13,10 +13,10 @@ int c = 30;
 String name = "ashok";
 String clg = "jntu";
 
-int x = 30;
-boolean b = false;
-byte bb = 10;
-
 int i  = 45;
 int j = 23;
 
+// JIRA-121
+public void m1(){
+	// logic
+}
