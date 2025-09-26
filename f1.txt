@@ -5,3 +5,7 @@ int g = 45;
 this is f1 file line-1
 this is f1 file line-2
 this is f1 file line-3
+
+// bug fix 101
+int a = 10;
+int b = 20;
